@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  server-demo.cpp
+\\uni.au.dk\users\au573522\documents\github\fc-projects\examples\client-server-unity-vs\vs-server-demo\server-demo\server-demo\server-demo.cpp(86): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'const char *'
+\\uni.au.dk\users\au573522\documents\github\fc-projects\examples\client-server-unity-vs\vs-server-demo\server-demo\server-demo\server-demo.cpp(106): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'const char *'
+\\uni.au.dk\users\au573522\documents\github\fc-projects\examples\client-server-unity-vs\vs-server-demo\server-demo\server-demo\server-demo.cpp(112): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'const char *'
+  server-demo.vcxproj -> \\uni.au.dk\Users\AU573522\Documents\GitHub\FC-projects\examples\client-server-Unity-VS\vs-server-demo\server-demo\Debug\server-demo.exe

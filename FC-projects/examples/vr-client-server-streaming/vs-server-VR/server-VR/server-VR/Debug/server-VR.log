@@ -1,0 +1,5 @@
+﻿  server-VR.cpp
+\\uni.au.dk\users\au573522\documents\github\fc-projects\examples\vr-client-server-streaming\vs-server-vr\server-vr\server-vr\server-vr.cpp(86): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'const char *'
+\\uni.au.dk\users\au573522\documents\github\fc-projects\examples\vr-client-server-streaming\vs-server-vr\server-vr\server-vr\server-vr.cpp(106): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'const char *'
+\\uni.au.dk\users\au573522\documents\github\fc-projects\examples\vr-client-server-streaming\vs-server-vr\server-vr\server-vr\server-vr.cpp(112): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'const char *'
+  server-VR.vcxproj -> \\uni.au.dk\Users\au573522\Documents\GitHub\FC-projects\examples\vr-client-server-streaming\vs-server-VR\server-VR\Debug\server-VR.exe
